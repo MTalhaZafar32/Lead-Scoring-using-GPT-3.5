@@ -1,0 +1,26 @@
+Age,Gender,Location,Purchase History,Student Status,Social Media Activity,Job Role
+23,Male,Karachi,3 purchases in last 6 months,Yes,85,Software Engineer
+35,Female,Lahore,5 purchases in last year,No,60,Marketing Manager
+28,Male,Islamabad,2 purchases in last 3 months,No,30,Data Analyst
+19,Female,Faisalabad,1 purchase in last month,Yes,95,Student
+40,Male,Rawalpindi,8 purchases in last year,No,55,Project Manager
+31,Female,Multan,4 purchases in last 6 months,No,75,UX Designer
+26,Male,Peshawar,3 purchases in last 4 months,No,20,IT Support Specialist
+22,Female,Quetta,2 purchases in last 2 months,Yes,90,Student
+45,Male,Gujranwala,10 purchases in last year,No,50,Sales Director
+29,Female,Sialkot,3 purchases in last 5 months,No,40,Financial Analyst
+34,Male,Hyderabad,6 purchases in last year,No,80,Product Manager
+21,Female,Sukkur,2 purchases in last month,Yes,65,Student
+38,Male,Sargodha,7 purchases in last year,No,25,Business Consultant
+27,Female,Bahawalpur,3 purchases in last 4 months,No,70,Software Developer
+33,Male,Jhelum,4 purchases in last 6 months,No,55,Operations Manager
+20,Female,Abbottabad,1 purchase in last month,Yes,35,Student
+42,Male,Mardan,9 purchases in last year,No,95,Entrepreneur
+30,Female,Rahim Yar Khan,5 purchases in last 8 months,No,60,HR Specialist
+24,Male,Muzaffarabad,2 purchases in last 3 months,No,85,Junior Developer
+36,Female,Chiniot,4 purchases in last 6 months,No,45,Graphic Designer
+40,Male,Dwn,6 purchases in last 6 months,Yes,60,Student
+29,Female,CTN,7 purchases in last 6 months,No,55,Data Analyst
+36,Female,Chiniot,2 purchases in last 6 months,No,70,Graphic Designer
+40,Male,Dwn,2 purchases in last 6 months,Yes,20,Student
+29,Female,CTN,7 purchases in last 6 months,No,53,Data Analyst
